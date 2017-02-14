@@ -8,7 +8,7 @@ TODO: Install it dude!
 
 ## Usage
 
-TODO: Use it dude! Norman Josep
+TODO: Use it dude! Norman Josep Vladimir
 
 ## Contributing
 
