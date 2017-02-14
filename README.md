@@ -20,7 +20,7 @@ TODO: Long time ago...
 
 ## Credits
 
-TODO: Me
+TODO: Hey there - Pau
 
 ##License
 
