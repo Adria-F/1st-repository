@@ -21,7 +21,8 @@ TODO: Long time ago...
 
 ## Credits
 
-TODO: Hey there - Pau
+TODO: Hey there - 
+Pau es tonto
 
 ##License
 
