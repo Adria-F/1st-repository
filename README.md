@@ -1,29 +1,32 @@
-<<<<<<< HEAD
 # 1st Repository
-ERORORORORRRRRO
-TODO: This is my first repository
+GunBird
 
 ## Installation
-
-TODO: Install it dude!
+Run the executable located to the root of the Gunbird folder.
 
 ## Usage
-
-TODO: Use it dude! Norman Josep Vladimir
+You use the arrow keys to move the ship and "v" to shoot.
+For player one press "1"
+For player two press "2"
+Make sure you insert coins with number "5" before you select the player.
+To start a new game, press "space"
 
 ## Contributing
-
-Try it :(
+Adrià Ferrer
+Norman Benet
+Vladimir Agache
+Pau Llopar
+Josep Pi
 
 ## History
-
-TODO: Long time ago...
+The story is based on a tale based in how the protagonist get the 
+different pieces from a mirror to make a wish.
 
 ## Credits
-
-TODO: Hey there - 
-Pau es tonto
+Code - Adrià Ferrer/Norman Benet
+QA - Vladimir Agache
+Art/Game Design - Pau Llopar
+Management - Josep Pi
 
 ##License
-
-Bye! Esto va a dar un error
+Sega Saturn
