@@ -8,7 +8,7 @@ TODO: Install it dude!
 
 ## Usage
 
-TODO: Use it dude! Adrià
+TODO: Use it dude!
 
 ## Contributing
 
