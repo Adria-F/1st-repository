@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 1st Repository
 
 TODO: This is my first repository
@@ -9,8 +8,7 @@ TODO: Install it dude!
 
 ## Usage
 
-TODO: Use it dude! Norman Josep Vladimir
+TODO: Use it dude!
 
 ## Contributing
-=======
->>>>>>> origin/master
+Adrià Ferrer
